@@ -62,3 +62,4 @@ ls --color=auto
 more package.json
 cleard
 clear
+ls --color=auto
