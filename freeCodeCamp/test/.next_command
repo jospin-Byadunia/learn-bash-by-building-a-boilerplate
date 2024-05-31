@@ -63,3 +63,4 @@ more package.json
 cleard
 clear
 ls --color=auto
+cd node_modules
